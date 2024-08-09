@@ -1,0 +1,26 @@
+html {
+    background-color: lightgray;
+    padding: 1em;
+    font-family: system-ui;
+}
+body {
+    max-width: 15cm;
+    margin: 0 auto;
+    background-color: beige;
+    padding: 1.5em;
+    border-radius: 0.3em;
+    box-shadow: 0 0 0.5em 0.5em darkgray;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    background-color: aliceblue;
+    border: 0.2rem solid black;
+    padding: 0.3rem;
+}
+div#beverage {
+    margin: 1em 0;
+    padding: 1em;
+    background-color: red;
+    border: 0.1rem dotted black;
+    font-weight: bold;
+}
